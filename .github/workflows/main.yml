@@ -1,2 +1,0 @@
-- name: Notion2Github
-  uses: narkdown/notion2github@v1.1.1
