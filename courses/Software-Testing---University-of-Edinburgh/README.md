@@ -238,7 +238,7 @@ Name: Software Testing - University of Edinburgh
 
     	**Верификация** - система ПО отвечает спецификации требований? **Мы делаем вещь правильно?** Связь ПО с более или менее формальными спецификациями. Включает в себя **тестирование, инспекции, статичный анализ.** 
 
-    	![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0aa633dc-2bac-4ea0-a6af-683a3f378ac3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230220T180647Z&X-Amz-Expires=3600&X-Amz-Signature=2fb1344d2ac2d129ded9df032e9cbfe78dcb8288f9c83704d86df48b6136433b&X-Amz-SignedHeaders=host&x-id=GetObject)
+    	![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0aa633dc-2bac-4ea0-a6af-683a3f378ac3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230220T180756Z&X-Amz-Expires=3600&X-Amz-Signature=bd9147aada401d26505df3e28fa67dec6920389eedb9926d964b09c98b830de3&X-Amz-SignedHeaders=host&x-id=GetObject)
 
     	И верификация, и валидация зависят от спецификации. 
 
@@ -248,19 +248,19 @@ Name: Software Testing - University of Edinburgh
 
     		**Деятельность по валидации и верификации**
 
-    		![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c518b94d-52f6-4402-8e64-4c16fa05fffe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230220T180647Z&X-Amz-Expires=3600&X-Amz-Signature=814cf81139d669742da60fb77787d2f2d6a043e033e8f8c2e69bcae8c84b709f&X-Amz-SignedHeaders=host&x-id=GetObject)
+    		![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c518b94d-52f6-4402-8e64-4c16fa05fffe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230220T180757Z&X-Amz-Expires=3600&X-Amz-Signature=4da86220d8eb7e196b7fc52e826b29887fb45e8d8e842259be6546b827da890d&X-Amz-SignedHeaders=host&x-id=GetObject)
 
     	**Вы никогда не сможете получить то, что хотите.**
 
     	**Свойства правильности являются неразрешимыми.**
 
-    	![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1fe8c10e-d125-4d0f-9d76-fd2aed658547/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230220T180647Z&X-Amz-Expires=3600&X-Amz-Signature=cf9ce9c7113643d2ab2030b215010f726c8ce0fa6230b95757c57ae23a326b19&X-Amz-SignedHeaders=host&x-id=GetObject)
+    	![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1fe8c10e-d125-4d0f-9d76-fd2aed658547/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230220T180756Z&X-Amz-Expires=3600&X-Amz-Signature=07c50f189d415e77b5d020fc86019c59d46e4c3df3453e02e4d9ba846c403106&X-Amz-SignedHeaders=host&x-id=GetObject)
 
     	Ограничение форм Property и Program (свойств и программ) может позволить вам найти процедуры принятия решения (decision procedure), но вообще у вас это не получится, т.к. в некоторых доменах есть такие ограничения которые позволяют такую настройку. 
 
     **Как получить то, что вам требуется**
 
-    	![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8f33b39a-4866-4d8f-ab9e-5366ab3946e4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230220T180648Z&X-Amz-Expires=3600&X-Amz-Signature=9003e96de58e32deb9a66d8309614fb8b004251742d2e1d5400e0e56a34786f8&X-Amz-SignedHeaders=host&x-id=GetObject)
+    	![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8f33b39a-4866-4d8f-ab9e-5366ab3946e4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230220T180758Z&X-Amz-Expires=3600&X-Amz-Signature=d8f4561c82421098fe3b4969eb1b934b59318b4d9d24f5b3cb426ba0d4658936&X-Amz-SignedHeaders=host&x-id=GetObject)
 
     	- **Оптимистическая погрешность:** мы можем принять программу, не обладающую этим свойством (все отклонения не могут быть зафиксированы) - тестирование
 
