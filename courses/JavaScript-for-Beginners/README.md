@@ -9,6 +9,7 @@ URL: https://stepik.org/course/3432
 Сертификат: ./5166b7ec73062ca5b512d0f14c45f5b7f9b3746b_lfxMxik9.png
 Статус: Завершен
 Сертификат?: Сертификат выдается
+Организация/автор: []
 Name: JavaScript for Beginners
 
 ---
