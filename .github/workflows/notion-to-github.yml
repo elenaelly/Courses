@@ -30,8 +30,8 @@ jobs:
           NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
           NOTION_DATABASE: https://www.notion.so/elenaelly/f0061c6decb84762ba38ed29a764ae3d?v=b1e6c77dbc154166886908e12bde25fd
           FILTER_PROP: Статус
-          FILTER_STAT: В процессе, Завершен
-          ARTICLE_PATH: courses/{title}/README.md
+          FILTER_STAT: Завершен
+          ARTICLE_PATH: {title}/README.md
           ASSETS_PATH: ./
           PARALLEL_PAGES: 25
           PARALLEL_DOWNLOADS_PER_PAGE: 3
