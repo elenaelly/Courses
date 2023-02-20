@@ -31,7 +31,7 @@ jobs:
           NOTION_DATABASE: https://www.notion.so/elenaelly/f0061c6decb84762ba38ed29a764ae3d
           FILTER_PROP: Статус
           FILTER_STAT: В процессе, Завершен
-          ARTICLE_PATH: /{title}/README.md
+          ARTICLE_PATH: courses/{title}/README.md
           ASSETS_PATH: ./
           PARALLEL_PAGES: 25
           PARALLEL_DOWNLOADS_PER_PAGE: 3
