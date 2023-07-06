@@ -1,0 +1,12 @@
+- name: Notion Exporter
+  uses: igor-kupczynski/notion-exporter@v1.0.2
+  with:
+    # Comma-separated list of page to export the data from
+    pages: https://elenaelly.notion.site/f0061c6decb84762ba38ed29a764ae3d?v=1277b9a95a2e492eb09cc2a9a57846a3
+    github-token: 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
+    # Value of the token_v2 cookie
+    notion-token: v02%3Auser_token_or_cookies%3AtFWCOyjP9Y0OOUfPqAy8fFwDyFYRzxxxZNE6-PBJYFNH4GufZP5AvGqXGidXcXrhUxHLGVUb8oJX1WQn9h8M8vM0tfVOVYAufye8gjNAGI9xf4h7RdyGDryALyscvavsP4oI
+    # Directory under your repo to sync the data to; note the existing files will be deleted
+    output-dir: 
+    # Override the branch to use, defaults to the branch you run your workflow on
+    force-branch: # optional
