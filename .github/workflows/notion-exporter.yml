@@ -1,5 +1,5 @@
 lalala
-- name: Notion Exporter
+name: Notion Exporter
   uses: igor-kupczynski/notion-exporter@v1.0.2
   with:
     # Comma-separated list of page to export the data from
